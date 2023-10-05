@@ -10,5 +10,7 @@ public class BreakDemo {
 			System.out.println(i);
 		}
 	}
+		//break: terminates the operation
+		//continue: skips the current iteration
 
 }
