@@ -7,7 +7,10 @@ public class BreakDemo {
 		{
 			if(i==5)
 				continue;
+
 			System.out.println(i);
+		
+		
 		}
 	}
 		//break: terminates the operation

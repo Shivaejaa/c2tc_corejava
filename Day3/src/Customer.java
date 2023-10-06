@@ -1,3 +1,6 @@
+//oops concepts
+
+
 
 public class Customer {
 
@@ -20,10 +23,6 @@ public class Customer {
 			customerCity=city;
 			
 		}
-		
-		
-		
-		
 		
 		//setters and getters
 		public int getCustomerId() {
@@ -59,9 +58,6 @@ public class Customer {
 			return "Customer [customerId=" + customerId + ", customerName=" + customerName + ", customerCity="
 					+ customerCity + "]";
 		}
-		
-		
-		
 		
 		
 		
