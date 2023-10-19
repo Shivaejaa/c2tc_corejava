@@ -1,3 +1,4 @@
+package com.jpm.encapsulation;
 
 public class EncapsulationDemo {
 
@@ -11,6 +12,11 @@ public class EncapsulationDemo {
 		
 		
 		System.out.println(obj);
+		
+		Person p=new Person();
+		
+		
+		
 		
 		
 

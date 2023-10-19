@@ -1,3 +1,4 @@
+package com.jpm.encapsulation;
 
 public class Oopsconceptdemo {
 	
